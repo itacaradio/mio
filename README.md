@@ -1,4 +1,4 @@
 # mio
-inditex.html
-inditex.css
-inditex.js
+#inditex.html
+#inditex.css
+#inditex.js
